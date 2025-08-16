@@ -1,2 +1,4 @@
 # Various-ML-Implementations-using-TF-
-Collection of ML algorithms I learned and implemented in the simplest way using TF and Keras
+Highschool Implementation:
+Collection of ML algorithms implemented in Jupyter Notebook in the simplest way using TF and Keras
+Most of the code focuses on data collection and preprocessing. 
